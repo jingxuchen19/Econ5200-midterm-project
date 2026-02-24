@@ -62,4 +62,4 @@ Econ5200-midterm-project/
 3. Implement the Difference-in-Differences (DiD) design.
 4. Compare results to the published estimates.
 
-This project follows a reproducible research workflow with clear separation between raw data, processed outputs, and analytical notebooks.
+This project follows a reproducible research workflow, maintaining a clear separation between raw data, processed outputs, and analytical notebooks to ensure transparency and version control.

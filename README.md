@@ -23,4 +23,39 @@ The data were obtained from the publicly released files made available by David 
 - `codebook`
 - `read.me`
 
-These files are stored in:
+These original files are stored in:
+`/data/raw`
+
+The raw data are treated as immutable and are never modified directly.  
+All cleaning and transformations are performed through scripts, and outputs are saved separately in the processed folder.
+
+---
+
+## Repository Structure
+
+Econ5200-midterm-project/
+
+├── README.md  
+├── .gitignore  
+├── data/  
+│   ├── raw/  
+│   │   ├── public.dat  
+│   │   ├── survey1.nj  
+│   │   ├── survey2.nj  
+│   │   ├── codebook  
+│   │   └── read.me  
+│   └── processed/  
+├── notebooks/  
+│   ├── 01_Data_Cleaning.ipynb  
+│   └── 02_Replication.ipynb  
+
+---
+
+## Replication Plan
+
+1. Clean and structure the raw survey data.
+2. Construct employment measures consistent with the original paper.
+3. Implement the Difference-in-Differences (DiD) design.
+4. Compare results to the published estimates.
+
+This project follows a reproducible research workflow with clear separation between raw data, processed outputs, and analytical notebooks.

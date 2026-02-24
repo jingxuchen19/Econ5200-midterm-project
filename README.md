@@ -10,6 +10,7 @@ This project replicates the seminal study:
 > American Economic Review.
 
 In April 1992, New Jersey raised its minimum wage from $4.25 to $5.05, while Pennsylvania kept its rate unchanged. The authors surveyed about 400 fast-food restaurants in both states before and after the change to see if the higher minimum wage led to job losses. They found that it didn't, employment in New Jersey did not decline.
+
 The goal of this replication is to reconstruct the original Difference-in-Differences (DiD) design using the publicly available dataset and reproduce the core employment results.
 
 ---

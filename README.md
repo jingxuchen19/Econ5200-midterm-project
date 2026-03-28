@@ -75,7 +75,7 @@ The raw data are treated as immutable and are never modified directly. All clean
 - **README.md** — Project overview and Executive Memo
 - **.gitignore** — Git ignore rules
 - **requirements.txt** — Python dependencies
-- **forest_plot.png** — Main visualization
+- **forest plot.png** — Main visualization
 - **data/**
   - **raw/** — Original untouched data files (public.dat, survey1.nj, survey2.nj, codebook, read.me)
   - **processed/** — Cleaned data outputs

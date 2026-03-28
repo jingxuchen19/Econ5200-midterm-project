@@ -19,7 +19,7 @@ That's exactly what we did here. New Jersey restaurants were the "policy group" 
 
 The chart below shows how the minimum wage increase affected employment at different types of fast-food restaurants. Each dot represents the estimated change in full-time equivalent (FTE) employees, and the horizontal lines show the range of uncertainty (95% confidence intervals). The red dashed line at zero represents "no effect." Dots to the right of zero mean employment increased; dots to the left mean it decreased.
 
-![Forest Plot](https://raw.githubusercontent.com/jingxuchen19/Econ5200-midterm-project/main/forest plot.png)
+![Forest Plot](forest%20plot.png)
 
 **Key takeaways from the chart:**
 - Burger King saw the largest employment increase (+4.67 FTE workers per store)
